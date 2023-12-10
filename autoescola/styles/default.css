@@ -1,0 +1,12 @@
+@import "variables.css";
+
+body{
+    background-color: var(--bg-color);
+}
+main{
+    
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
